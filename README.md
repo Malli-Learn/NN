@@ -31,7 +31,7 @@ Images size is at
 ### Model 1 - With initail Data
   - Constructed using 8 layers
   - Total params: 1,172,265
-  - Used loss funcation <b> SparseCategoricalCrossentropy <b> as it is Suitable for multi-class classification problems
+  - Used loss funcation <b> SparseCategoricalCrossentropy </b> as it is Suitable for multi-class classification problems
   
  #### Finding
   - Model is OverFit, By seeing the graphs
@@ -42,7 +42,7 @@ Images size is at
   - Created with agumented data 
   - Same model is created for learning
   - Total params: 1,172,265
-  - Used loss funcation <b> SparseCategoricalCrossentropy <b> as it is Suitable for multi-class classification problems
+  - Used loss funcation <b> SparseCategoricalCrossentropy </b> as it is Suitable for multi-class classification problems
   
  #### Finding
   - where we can observe Over fitting was resolved, seems both Training and validation accurace and Losss at same level
@@ -53,7 +53,7 @@ Images size is at
   - Same model is created for learning
   - Total params: 1,172,265
   - total images - 6739 
-  - Used loss funcation <b> SparseCategoricalCrossentropy <b> as it is Suitable for multi-class classification problems
+  - Used loss funcation <b> SparseCategoricalCrossentropy </b> as it is Suitable for multi-class classification problems
   
  #### Finding
   - With help of Augmentor generated data, Overall Accuracy increased very well
